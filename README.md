@@ -90,7 +90,6 @@ reports/
 │
 ├── executive_summary.pdf
 ```
-
 🎓 Contexto Académico
 **Proyecto 9 – TripleTen Data Analyst Bootcamp (2026)**
 Proyecto enfocado en Business Intelligence y visualización de datos, orientado a transformar información transaccional en dashboards ejecutivos que permitan identificar oportunidades comerciales y apoyar la toma de decisiones estratégicas.
