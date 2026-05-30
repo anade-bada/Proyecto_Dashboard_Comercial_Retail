@@ -1,10 +1,7 @@
 📊 Andes Retail Group: Dashboard de Desempeño Comercial
 
 📌 Descripción del Proyecto
-Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el desempeño comercial de Andes Retail Group en Perú, Chile y Colombia durante 2024–2025.
-El proyecto transformó datos transaccionales en información estratégica para evaluar ingresos, rentabilidad, segmentos de clientes, categorías de producto y tendencias temporales, facilitando la toma de decisiones a nivel ejecutivo.
-
-![Dashboard Desempeño Comercial](desempeño_comercial.jpeg)
+Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el desempeño comercial de Andes Retail Group en Perú, Chile y Colombia durante 2024–2025. El proyecto transformó datos transaccionales en información estratégica para evaluar ingresos, rentabilidad, segmentos de clientes, categorías de producto y tendencias temporales, facilitando la toma de decisiones estratégicas a nivel ejecutivo.
 
 🎯 Objetivos
 - Analizar la evolución comercial entre 2024 y 2025.
@@ -13,6 +10,16 @@ El proyecto transformó datos transaccionales en información estratégica para 
 - Comparar resultados entre países y regiones.
 - Detectar patrones estacionales y oportunidades de crecimiento.
 - Comunicar hallazgos mediante dashboards ejecutivos orientados a negocio.
+
+📊 Dashboard Ejecutivo
+
+### Vista General del Desempeño Comercial
+![Dashboard Desempeño Comercial](desempeño_comercial.jpeg)
+*Dashboard principal mostrando KPIs clave: Ingresos totales, Ganancia total, Unidades vendidas, Evolución temporal y comparativo por país.*
+
+### Vista Detallada e Interactiva
+![Detalles Dashboard](detalles_dashboard.jpeg)
+*Vista analítica detallada con desagregación por categorías de producto, segmentos de clientes, regiones y análisis exploratorio.*
 
 🔍 Metodología
 1. **Preparación y Validación de Datos**
@@ -25,26 +32,22 @@ El proyecto transformó datos transaccionales en información estratégica para 
    - Estructuración del dashboard bajo principios de diseño visual profesional.
    - Construcción de narrativa basada en el modelo SQCA.
 
-3. **Dashboard Ejecutivo**
+3. **Desarrollo del Dashboard**
 
-   Desarrollo de dos vistas principales:
-   
    **Vista General (Overview)**
-   - Ingresos Totales
-   - Ganancia Total
-   - Unidades Vendidas
-   - Evolución temporal
-   - Comparativo por país
-   - Desempeño por segmento
+   - 📈 Ingresos Totales
+   - 💰 Ganancia Total
+   - 📦 Unidades Vendidas
+   - 📅 Evolución temporal
+   - 🌍 Comparativo por país
+   - 👥 Desempeño por segmento
    
    **Vista Detallada**
-   - Categorías de producto
-   - Segmentos de clientes
-   - Regiones
-   - Análisis exploratorio mediante filtros interactivos
-   - Detección de oportunidades comerciales
-
-![Detalles Dashboard](detalles_dashboard.jpeg)
+   - 🏷️ Categorías de producto
+   - 👥 Segmentos de clientes
+   - 🗺️ Regiones
+   - 🔍 Análisis exploratorio mediante filtros interactivos
+   - 💡 Detección de oportunidades comerciales
 
 📈 Principales Resultados
 ✅ Identificación de categorías con mayor contribución al ingreso y rentabilidad.
@@ -73,26 +76,30 @@ El proyecto transformó datos transaccionales en información estratégica para 
 
 📁 Estructura del Proyecto
 ```
-dashboard/
+Proyecto_Dashboard_Comercial_Retail/
 │
-├── AndesRetail_Dashboard.pbix
+├── README.md
+├── desempeño_comercial.jpeg
+├── detalles_dashboard.jpeg
+├── S10 Proyecto_VersionEstudiante_Desempeno_Comercial.ipynb
 │
-data/
+├── dashboard/
+│   └── AndesRetail_Dashboard.pbix
 │
-├── Andes_Retail_Group_2024_2025.xlsx
+├── data/
+│   └── Andes_Retail_Group_2024_2025.xlsx
 │
-documentation/
+├── documentation/
+│   ├── business_requirements.md
+│   └── dashboard_storytelling.md
 │
-├── business_requirements.md
-├── dashboard_storytelling.md
-│
-reports/
-│
-├── executive_summary.pdf
+└── reports/
+    └── executive_summary.pdf
 ```
+
 🎓 Contexto Académico
 **Proyecto 9 – TripleTen Data Analyst Bootcamp (2026)**
-Proyecto enfocado en Business Intelligence y visualización de datos, orientado a transformar información transaccional en dashboards ejecutivos que permitan identificar oportunidades comerciales y apoyar la toma de decisiones estratégicas.
+Proyecto enfocado en Business Intelligence y visualización de datos, orientado a transformar información transaccional en dashboards ejecutivos que permitan identificar oportunidades comerciales y mejorar la toma de decisiones estratégicas a nivel ejecutivo.
 
 🚀 Competencias Demostradas
 - Business Intelligence
