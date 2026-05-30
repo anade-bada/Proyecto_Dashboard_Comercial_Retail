@@ -1,7 +1,7 @@
 📊 Andes Retail Group: Dashboard de Desempeño Comercial
 
 📌 Descripción del Proyecto
-Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el desempeño comercial de Andes Retail Group en Perú, Chile y Colombia durante 2024–2025. El proyecto transformó datos transaccionales en información estratégica para evaluar ingresos, rentabilidad, segmentos de clientes, categorías de producto y tendencias temporales, facilitando la toma de decisiones estratégicas a nivel ejecutivo.
+Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el desempeño comercial de Andes Retail Group en Perú, Chile y Colombia durante 2024–2025. El proyecto transformó datos transaccionales en una solución de Business Intelligence que facilita la toma de decisiones estratégicas basada en análisis de ventas, rentabilidad y segmentación de clientes.
 
 🎯 Objetivos
 - Analizar la evolución comercial entre 2024 y 2025.
@@ -14,11 +14,11 @@ Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el dese
 📊 Dashboard Ejecutivo
 
 ### Vista General del Desempeño Comercial
-![Dashboard Desempeño Comercial](desempeño_comercial.jpeg)
+![Dashboard Desempeño Comercial](performance_overview.jpeg)
 *Dashboard principal mostrando KPIs clave: Ingresos totales, Ganancia total, Unidades vendidas, Evolución temporal y comparativo por país.*
 
 ### Vista Detallada e Interactiva
-![Detalles Dashboard](detalles_dashboard.jpeg)
+![Detalles Dashboard](detailed_analytics.jpeg)
 *Vista analítica detallada con desagregación por categorías de producto, segmentos de clientes, regiones y análisis exploratorio.*
 
 🔍 Metodología
@@ -79,8 +79,8 @@ Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el dese
 Proyecto_Dashboard_Comercial_Retail/
 │
 ├── README.md
-├── desempeño_comercial.jpeg
-├── detalles_dashboard.jpeg
+├── performance_overview.jpeg
+├── detailed_analytics.jpeg
 ├── S10 Proyecto_VersionEstudiante_Desempeno_Comercial.ipynb
 │
 ├── dashboard/
@@ -99,7 +99,7 @@ Proyecto_Dashboard_Comercial_Retail/
 
 🎓 Contexto Académico
 **Proyecto 9 – TripleTen Data Analyst Bootcamp (2026)**
-Proyecto enfocado en Business Intelligence y visualización de datos, orientado a transformar información transaccional en dashboards ejecutivos que permitan identificar oportunidades comerciales y mejorar la toma de decisiones estratégicas a nivel ejecutivo.
+Proyecto enfocado en Business Intelligence y visualización de datos, orientado a transformar información transaccional en dashboards ejecutivos que permitan identificar oportunidades comerciales y mejorar la toma de decisiones estratégicas en retail.
 
 🚀 Competencias Demostradas
 - Business Intelligence
