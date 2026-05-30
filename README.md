@@ -2,9 +2,9 @@
 
 📌 Descripción del Proyecto
 Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el desempeño comercial de Andes Retail Group en Perú, Chile y Colombia durante 2024–2025.
-El proyecto transformó datos transaccionales en información estratégica para evaluar ingresos, rentabilidad, segmentos de clientes, categorías de producto y tendencias temporales, facilitando la toma de decisiones estratégicas.
+El proyecto transformó datos transaccionales en información estratégica para evaluar ingresos, rentabilidad, segmentos de clientes, categorías de producto y tendencias temporales, facilitando la toma de decisiones a nivel ejecutivo.
 
-![Dashboard Desempeño Comercial](desempeño%20comercial.jpeg)
+![Dashboard Desempeño Comercial](desempeño_comercial.jpeg)
 
 🎯 Objetivos
 - Analizar la evolución comercial entre 2024 y 2025.
@@ -44,7 +44,7 @@ El proyecto transformó datos transaccionales en información estratégica para 
    - Análisis exploratorio mediante filtros interactivos
    - Detección de oportunidades comerciales
 
-![Detalles Dashboard](detalles.jpeg)
+![Detalles Dashboard](detalles_dashboard.jpeg)
 
 📈 Principales Resultados
 ✅ Identificación de categorías con mayor contribución al ingreso y rentabilidad.
@@ -93,7 +93,7 @@ reports/
 
 🎓 Contexto Académico
 **Proyecto 9 – TripleTen Data Analyst Bootcamp (2026)**
-Proyecto enfocado en Business Intelligence y visualización de datos, orientado a transformar información transaccional en dashboards ejecutivos que permitan identificar oportunidades comerciales y apoyar la toma de decisiones estratégicas en organizaciones retail multinacionales.
+Proyecto enfocado en Business Intelligence y visualización de datos, orientado a transformar información transaccional en dashboards ejecutivos que permitan identificar oportunidades comerciales y apoyar la toma de decisiones estratégicas.
 
 🚀 Competencias Demostradas
 - Business Intelligence
