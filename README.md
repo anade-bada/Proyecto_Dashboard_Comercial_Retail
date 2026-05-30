@@ -15,7 +15,8 @@ Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el dese
 
 ### Vista General del Desempeño Comercial
 ![Dashboard General](overview.jpeg)
-*Dashboard principal mostrando KPIs clave: Ingresos totales, Ganancia total, Unidades vendidas, Evolución temporal y comparativo por país.*
+
+ *Dashboard principal mostrando KPIs clave: Ingresos totales, Ganancia total, Unidades vendidas, Evolución temporal y comparativo por país.*
 
 ### Vista Detallada e Interactiva
 ![Detalles Dashboard](detalles.jpeg)
