@@ -20,7 +20,8 @@ Diseño y desarrollo de un dashboard ejecutivo interactivo para analizar el dese
 
 ### Vista Detallada e Interactiva
 ![Detalles Dashboard](detalles.jpeg)
-*Vista analítica detallada con desagregación por categorías de producto, segmentos de clientes, regiones y análisis exploratorio.*
+
+ *Vista analítica detallada con desagregación por categorías de producto, segmentos de clientes, regiones y análisis exploratorio.*
 
 🔍 Metodología
 1. **Preparación y Validación de Datos**
